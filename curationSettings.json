@@ -1,0 +1,10 @@
+{
+    "Computer Science": {
+        "subreddits": ["compsci", "programming", "coding", "ProgrammingLanguages"],
+        "name": "Computer Science"
+    },
+	"Cooking & Food": {
+        "languages": ["Cooking", "recipes", "cookingforbeginners", "MealPrepSunday", "slowcooking", "AskCulinary"],
+        "name": "Cooking & Food"
+    }
+}
